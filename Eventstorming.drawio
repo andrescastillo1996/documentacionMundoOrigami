@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T22:31:11.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="FXofO5gj5bSqHREJx2uh" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T22:40:22.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="cvrpeFZSbmvz8RkKMIoZ" version="20.2.4" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Slm6-OWsEqEtUNippmqi-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Slm6-OWsEqEtUNippmqi-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="540" width="80" height="80" as="geometry" />
@@ -44,10 +44,25 @@
           <mxGeometry x="780" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-5" value="tutorial origami creado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
-          <mxGeometry x="310" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-6" value="tipo de origami creado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uZAGNZrkQAJ1IAcb_G9e-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uZAGNZrkQAJ1IAcb_G9e-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uZAGNZrkQAJ1IAcb_G9e-11" value="tipo de origami mostrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uZAGNZrkQAJ1IAcb_G9e-12" value="tutorial origami mostrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="640" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uZAGNZrkQAJ1IAcb_G9e-13" value="tutorial origami activado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="490" y="610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
