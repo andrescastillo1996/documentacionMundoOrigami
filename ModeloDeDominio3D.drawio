@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T22:47:47.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="r7l80Hb5X6TtyTmPYKY3" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T02:49:15.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="QbwOr8YaGora_CZOU-Tx" version="20.2.5" type="github">
   <diagram id="qQjOGNZVM2u2vZWcB5vZ" name="Página-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="uiCKqk8TsC3t00TrTfl8-34" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="394" y="40" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uiCKqk8TsC3t00TrTfl8-35" value="tiene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uiCKqk8TsC3t00TrTfl8-35" value="es para" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uiCKqk8TsC3t00TrTfl8-39" value="1...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
