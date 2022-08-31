@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:22:44.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="kInEvibnhT8ZMMquJtGX" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:23:05.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="op0_6fjuefUn8PGqGKVg" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="2875" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
           <mxGeometry x="660" y="1010" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-4" value="Eliminar Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="660" y="900" width="80" height="80" as="geometry" />
+          <mxGeometry x="667" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-5" value="modificar clave de usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="660" y="1600" width="80" height="80" as="geometry" />
@@ -452,7 +452,7 @@
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Za_qh5M9ESVTjYUdjO_X-6" target="Za_qh5M9ESVTjYUdjO_X-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="940" />
+              <mxPoint x="560" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -501,13 +501,16 @@
           <mxGeometry x="1050" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-2" value="Usuario&amp;nbsp;&lt;br&gt;Eliminado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
-          <mxGeometry x="740" y="900" width="80" height="80" as="geometry" />
+          <mxGeometry x="747" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-15" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="1090" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-16" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="1320" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-17" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1560" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
