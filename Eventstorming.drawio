@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:45:21.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Qr9Y0usEUk9A_uLCbkrp" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:48:05.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="KYt6YpsWpHEBBJo_JtIP" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="2692" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -504,6 +504,9 @@
         <mxCell id="SXyk4bjFNQdIc0ju25zH-2" value="Usuario&amp;nbsp;&lt;br&gt;Eliminado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
           <mxGeometry x="747" y="760" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FCaG5_hRRuDquP9Trq2R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SXyk4bjFNQdIc0ju25zH-3" target="FCaG5_hRRuDquP9Trq2R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-3" value="Clave&lt;br&gt;usuario&lt;br&gt;Restablecida" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
           <mxGeometry x="740" y="1370" width="80" height="80" as="geometry" />
         </mxCell>
@@ -681,10 +684,10 @@
         <mxCell id="dt5TyYUFhW6y-02jE1-C-49" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="730.1600000000001" y="865.42" width="11.25" height="8.75" as="geometry" />
         </mxCell>
-        <mxCell id="FCaG5_hRRuDquP9Trq2R-1" value="Restablecer clave de Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FCaG5_hRRuDquP9Trq2R-1" value="enviar notificación de restablecimiento al usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="990.83" y="1370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FCaG5_hRRuDquP9Trq2R-2" value="Clave&lt;br&gt;usuario&lt;br&gt;Restablecida" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+        <mxCell id="FCaG5_hRRuDquP9Trq2R-2" value="notificacion restablecimiento clave usuario enviado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
           <mxGeometry x="1070.83" y="1370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FCaG5_hRRuDquP9Trq2R-3" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
