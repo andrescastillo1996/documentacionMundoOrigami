@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:25:39.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="OjOoO8iTfeYTs93zGohX" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:27:57.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Y9YgBljQ5IjMqGYvWfSm" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
-    <mxGraphModel dx="3251" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2557" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,11 +534,23 @@
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-21" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1040" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Za_qh5M9ESVTjYUdjO_X-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="290" y="570" width="80" height="80" as="geometry" />
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420" y="610" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Za_qh5M9ESVTjYUdjO_X-23" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="670" width="20" height="30" as="geometry" />
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-30" value="cliente" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Za_qh5M9ESVTjYUdjO_X-32">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Za_qh5M9ESVTjYUdjO_X-32">
+          <mxGeometry x="22.5" y="31.25" width="15" height="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="620" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-25" value="Administrador" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Za_qh5M9ESVTjYUdjO_X-33">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-26" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Za_qh5M9ESVTjYUdjO_X-33">
+          <mxGeometry x="22.5" y="31.25" width="15" height="18.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
