@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:31:53.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="UOta_134CI1-h_JZnZgx" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:32:10.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="-YbxedzVUoNMq89tHNO4" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="2692" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,9 +540,6 @@
         <mxCell id="SXyk4bjFNQdIc0ju25zH-8" value="El tipo de usuario a eliminar debe existir" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B879B4;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="860" y="860" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Za_qh5M9ESVTjYUdjO_X-36" value="cliente" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="345" y="620" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-14" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="414" y="710" width="50" height="50" as="geometry" />
         </mxCell>
@@ -555,9 +552,6 @@
         <mxCell id="SXyk4bjFNQdIc0ju25zH-17" value="admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SXyk4bjFNQdIc0ju25zH-14">
           <mxGeometry y="10.830000000000041" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Za_qh5M9ESVTjYUdjO_X-35" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="780" width="15" height="18.75" as="geometry" />
-        </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-18" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="520" y="670" width="50" height="50" as="geometry" />
         </mxCell>
@@ -569,9 +563,6 @@
         </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-21" value="tiempo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SXyk4bjFNQdIc0ju25zH-18">
           <mxGeometry y="10.830000000000041" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Za_qh5M9ESVTjYUdjO_X-46" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="770.63" width="15" height="18.75" as="geometry" />
         </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-22" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="630" y="640" width="50" height="50" as="geometry" />
