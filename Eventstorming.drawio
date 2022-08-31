@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:13:54.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Lc0IuM-PpADX_8oC8rnB" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:18:07.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="fn7l8zrb5TFiizzpOBWA" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="2395" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="250" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-9" value="Activar Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1000" width="80" height="80" as="geometry" />
+          <mxGeometry x="660" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-11" value="tipo de origami mostrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
           <mxGeometry x="330" y="610" width="80" height="80" as="geometry" />
@@ -435,10 +435,25 @@
           <mxGeometry x="-90" y="357.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-1" value="Registrar&amp;nbsp;&lt;br&gt;usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1140" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-2" value="Restablecer clave de Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1260" width="80" height="80" as="geometry" />
+          <mxGeometry x="660" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-3" value="Inactivar Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-4" value="Eliminar Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-5" value="modificar clave de usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-6" value="Usuario&amp;nbsp;&lt;br&gt;registrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-7" value="Usuario&amp;nbsp;&lt;br&gt;activado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
