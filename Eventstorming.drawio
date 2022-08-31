@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:54:36.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="FRAkJ8SgMJzT9TpYFIrQ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:55:14.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="TCUezC5GMSZL_IHLwg--" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="2598" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -722,6 +722,9 @@
         </mxCell>
         <mxCell id="FCaG5_hRRuDquP9Trq2R-16" value="el tipo de usuario a autenticar debe de existir" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B879B4;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1028.33" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FCaG5_hRRuDquP9Trq2R-17" value="debe de existir el usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B879B4;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1439.73" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
