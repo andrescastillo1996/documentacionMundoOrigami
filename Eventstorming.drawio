@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:19:26.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="zC_Uc7qkwdij3_sePfGa" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:20:18.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="1kMFmgHJi-2ZoQ1pVM_J" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
-    <mxGraphModel dx="2395" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2692" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -481,11 +481,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Za_qh5M9ESVTjYUdjO_X-6" target="Za_qh5M9ESVTjYUdjO_X-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-6" value="Usuario&amp;nbsp;&lt;br&gt;registrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
           <mxGeometry x="520" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-7" value="Usuario&amp;nbsp;&lt;br&gt;activado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
           <mxGeometry x="740" y="1140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-13" value="Autenticar Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
