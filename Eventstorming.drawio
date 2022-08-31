@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:23:21.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="fA4Wt6a4-8JIgjQE6uf2" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:23:55.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Quxap3cvUFEs87QjRSfL" version="20.2.7" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="2875" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,25 +50,25 @@
           <mxGeometry x="320" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-8" value="mostrar el tipo de origami" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="250" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-9" value="Activar Usuario" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="660" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-11" value="tipo de origami mostrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
-          <mxGeometry x="330" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="370" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-12" value="tutorial origami mostrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
-          <mxGeometry x="770" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="810" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-13" value="tutorial origami activado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
-          <mxGeometry x="570" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="610" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-14" value="activar el tutorial de origami" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="490" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="530" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-15" value="mostrar el tutorial de origami" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="690" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="730" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upWSd1A04xD5qw3a4po6-1" value="Tipo de Origami" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-466" y="110" width="120" height="40" as="geometry" />
@@ -505,22 +505,28 @@
           <mxGeometry x="747" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-3" value="Clave&lt;br&gt;usuario&lt;br&gt;Restablecida" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1240" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="1370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-15" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="1090" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-4" value="contraseña&lt;br&gt;usuario&lt;br&gt;modificada" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1350" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="1600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-16" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1320" width="50" height="50" as="geometry" />
+          <mxGeometry x="580" y="1440" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXyk4bjFNQdIc0ju25zH-5" value="Usuario&amp;nbsp;&lt;br&gt;autenticado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Za_qh5M9ESVTjYUdjO_X-17" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="1560" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-18" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="715" y="720" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Za_qh5M9ESVTjYUdjO_X-19" value="Persona" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E3E30B;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="715" y="890" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
