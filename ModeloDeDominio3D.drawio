@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T05:32:57.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="CoaTYPplYATh9wHXjfej" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T05:35:49.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="cl5EjoPnKvqRlbtwsLlt" version="20.3.0" type="github">
   <diagram id="qQjOGNZVM2u2vZWcB5vZ" name="Página-1">
     <mxGraphModel dx="1384" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,6 +316,9 @@
         </mxCell>
         <mxCell id="smcwWbgq4ED1Gm5okgym-14" value="explica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="644" y="-468.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="smcwWbgq4ED1Gm5okgym-15" value="Observa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
