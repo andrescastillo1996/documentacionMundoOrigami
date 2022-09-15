@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T06:07:12.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="OCwvCGgGHsTD_vFiAFK0" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T06:07:49.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="fYZwYIJjpbjyG57iYEYs" version="20.3.0" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="3384" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="2700" y="470" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-5" value="tutorial origami consultado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
-          <mxGeometry x="-734" y="640.0000000000001" width="80" height="80" as="geometry" />
+          <mxGeometry x="790" y="530.8300000000002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZAGNZrkQAJ1IAcb_G9e-6" value="tipo de origami creado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
           <mxGeometry x="-180" y="460.00000000000006" width="80" height="80" as="geometry" />
