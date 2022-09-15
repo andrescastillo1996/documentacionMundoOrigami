@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T13:23:36.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="u_3HHbv7-1LnHrd3NhHF" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T13:23:46.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="siXH0PzZ-haoCGB4wmbW" version="20.3.0" type="github">
   <diagram id="F2Z2n8QuwaKCe3WARxC1" name="Página-1">
     <mxGraphModel dx="960" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="TGsTLS2YZlxnaI45v3r6-10" value="CONSULTA DE USUARIO" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/App_Service_API_Apps.svg;" vertex="1" parent="1">
           <mxGeometry x="890" y="127" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="TGsTLS2YZlxnaI45v3r6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="TGsTLS2YZlxnaI45v3r6-11" target="TGsTLS2YZlxnaI45v3r6-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TGsTLS2YZlxnaI45v3r6-11" value="TRANSACCIONES DE USUARIO" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/App_Service_API_Apps.svg;" vertex="1" parent="1">
           <mxGeometry x="900" y="383.5" width="50" height="43" as="geometry" />
