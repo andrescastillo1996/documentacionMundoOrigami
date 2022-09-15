@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T21:21:27.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="tb7PNGJdCGZ5vsE4GWM5" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T21:23:14.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="sFX_1eb5KNcNgziC5bmN" version="20.3.0" type="github">
   <diagram id="F2Z2n8QuwaKCe3WARxC1" name="Página-1">
-    <mxGraphModel dx="1477" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2133" dy="2456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,12 +337,7 @@
         <mxCell id="TGsTLS2YZlxnaI45v3r6-139" value="API Getway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="675" y="-230" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGsTLS2YZlxnaI45v3r6-141" target="TGsTLS2YZlxnaI45v3r6-170">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1345" y="-280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGsTLS2YZlxnaI45v3r6-152" target="TGsTLS2YZlxnaI45v3r6-172">
+        <mxCell id="TGsTLS2YZlxnaI45v3r6-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;exitX=1.013;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TGsTLS2YZlxnaI45v3r6-141" target="TGsTLS2YZlxnaI45v3r6-172">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1390" y="-200" as="sourcePoint" />
           </mxGeometry>
@@ -419,35 +414,14 @@
         <mxCell id="TGsTLS2YZlxnaI45v3r6-168" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#38F100;shape=mxgraph.gcp2.a7_power;fontColor=#000000;" vertex="1" parent="TGsTLS2YZlxnaI45v3r6-166">
           <mxGeometry x="152.2608695652174" y="6.666666666666666" width="26.666666666666664" height="26.666666666666664" as="geometry" />
         </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="TGsTLS2YZlxnaI45v3r6-170" target="TGsTLS2YZlxnaI45v3r6-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-170" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;shadow=0;sketch=0;strokeColor=#000000;fontColor=#000000;fillColor=#317D05;gradientColor=#5C5C5C;" vertex="1" parent="1">
-          <mxGeometry x="1626" y="-390" width="48" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="TGsTLS2YZlxnaI45v3r6-172" target="TGsTLS2YZlxnaI45v3r6-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TGsTLS2YZlxnaI45v3r6-172" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;shadow=0;sketch=0;strokeColor=#000000;fontColor=#000000;fillColor=#317D05;gradientColor=#5C5C5C;" vertex="1" parent="1">
-          <mxGeometry x="1626" y="-154.5" width="68" height="68" as="geometry" />
+          <mxGeometry x="1610" y="-279" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-173" value="SQL consulta&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="-326" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-174" value="TRANSACCION&amp;nbsp; NOSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="-86.5" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-175" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_service_request;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1783" y="-266.5" width="102" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-176" value="ETL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1888" y="-251.5" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-178" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="-315" width="60" height="30" as="geometry" />
+        <mxCell id="TGsTLS2YZlxnaI45v3r6-174" value="Read/Write&amp;nbsp; NOSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="-190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGsTLS2YZlxnaI45v3r6-179" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="-90" width="60" height="30" as="geometry" />
+          <mxGeometry x="1330" y="-285" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGsTLS2YZlxnaI45v3r6-180" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1210" y="160" width="60" height="30" as="geometry" />
