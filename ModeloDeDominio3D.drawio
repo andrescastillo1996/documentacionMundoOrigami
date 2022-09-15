@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T22:28:15.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="aovFFBcBcmPIM61VcgcY" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T12:15:39.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="nwoSE40i0Z6uvH40XQgY" version="20.3.0" type="github">
   <diagram id="qQjOGNZVM2u2vZWcB5vZ" name="Página-1">
-    <mxGraphModel dx="653" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,9 +301,6 @@
         </mxCell>
         <mxCell id="smcwWbgq4ED1Gm5okgym-6" value="puede Estar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="847" y="-334.75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="smcwWbgq4ED1Gm5okgym-7" value="pertenece" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-250" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="smcwWbgq4ED1Gm5okgym-9" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="-334.75" width="30" height="20" as="geometry" />
