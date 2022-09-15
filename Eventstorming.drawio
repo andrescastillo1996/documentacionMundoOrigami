@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T05:48:09.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="c2myLrbjQu3cqRu7D2sx" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T05:53:53.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="ap6WtlBfAoG6gOcdQQgB" version="20.3.0" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
-    <mxGraphModel dx="2438" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3038" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,8 +362,18 @@
         <mxCell id="9hmqQuFWDpJwdZeJYw3b-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Paso tutorial&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
           <mxGeometry x="-373" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9hmqQuFWDpJwdZeJYw3b-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Recurso&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="23.549999999999997" width="80" height="80" as="geometry" />
+        <mxCell id="QFz8gI26abShIV991f-_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9hmqQuFWDpJwdZeJYw3b-2" target="QFz8gI26abShIV991f-_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9hmqQuFWDpJwdZeJYw3b-2" target="QFz8gI26abShIV991f-_-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hmqQuFWDpJwdZeJYw3b-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Recurso Creado&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="35" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9hmqQuFWDpJwdZeJYw3b-85" value="Tipo Origami" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="-230" width="120" height="40" as="geometry" />
@@ -686,6 +696,30 @@
         </mxCell>
         <mxCell id="9hmqQuFWDpJwdZeJYw3b-168" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Estado Paso Persona&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
           <mxGeometry x="-590" y="641.67" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QFz8gI26abShIV991f-_-1" target="QFz8gI26abShIV991f-_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Recurso Activado&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Recurso Inactivado&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Recurso mostrado&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-4" value="crea recurso" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="35" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-5" value="Activar recurso" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-6" value="Inactivar recurso" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-7" value="Mostrar recurso" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="30" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
