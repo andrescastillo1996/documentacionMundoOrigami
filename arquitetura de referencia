@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T17:11:31.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="PwhOsmlt_T2biyun04SN" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T20:07:24.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="ClQmEOHKXETvMu0iTywt" version="20.3.0" type="github">
   <diagram id="F2Z2n8QuwaKCe3WARxC1" name="Página-1">
-    <mxGraphModel dx="2133" dy="2456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1129" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,8 +148,8 @@
         <mxCell id="TGsTLS2YZlxnaI45v3r6-59" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_SQL.svg;shadow=0;sketch=0;strokeColor=#000000;fontColor=#000000;fillColor=#317D05;gradientColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="103" y="-852" width="64" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="TGsTLS2YZlxnaI45v3r6-60" value="liteSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="107" y="-806" width="60" height="30" as="geometry" />
+        <mxCell id="TGsTLS2YZlxnaI45v3r6-60" value="liteSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="92" y="-811" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGsTLS2YZlxnaI45v3r6-61" value="API Getway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="724" y="340" width="90" height="30" as="geometry" />
