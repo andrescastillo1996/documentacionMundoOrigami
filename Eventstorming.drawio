@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T05:59:09.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="25X66N3PLBDetqa6zmtL" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T05:59:15.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="TaW1qXU3wzhg5kxZY8WQ" version="20.3.0" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
     <mxGraphModel dx="3038" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -730,6 +730,9 @@
         </mxCell>
         <mxCell id="QFz8gI26abShIV991f-_-7" value="Mostrar recurso" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2010" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFz8gI26abShIV991f-_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QFz8gI26abShIV991f-_-12" target="QFz8gI26abShIV991f-_-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QFz8gI26abShIV991f-_-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Paso tutorial&amp;nbsp;&lt;br&gt;Activado&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" vertex="1" parent="1">
           <mxGeometry x="1760" y="480" width="80" height="80" as="geometry" />
