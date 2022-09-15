@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T12:15:32.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="BkuaKmLIP7oVkLG-KGs4" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T15:43:15.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="_XNus5Ae2Up7OTjsjGXt" version="20.3.0" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
-    <mxGraphModel dx="2952" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3384" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,12 +39,6 @@
         </mxCell>
         <mxCell id="Slm6-OWsEqEtUNippmqi-13" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CC0066;" parent="1" vertex="1">
           <mxGeometry x="110" y="740" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QFz8gI26abShIV991f-_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uZAGNZrkQAJ1IAcb_G9e-4" target="9hmqQuFWDpJwdZeJYw3b-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uZAGNZrkQAJ1IAcb_G9e-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Paso Persona Creado&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;" parent="1" vertex="1">
-          <mxGeometry x="2930" y="1719.58" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QFz8gI26abShIV991f-_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uZAGNZrkQAJ1IAcb_G9e-5" target="uZAGNZrkQAJ1IAcb_G9e-8">
           <mxGeometry relative="1" as="geometry" />
