@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T07:33:20.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="A33JLh2xdT4xr7553tL2" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-16T07:33:47.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="KBQoZ54ONVTvFcWklgZi" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2353" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,10 +364,10 @@
         <mxCell id="bdi7g1kAoPdW7_QPwDxV-46" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="bdi7g1kAoPdW7_QPwDxV-41" vertex="1">
           <mxGeometry y="130" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D59ijYObIirlq5wWIzJe-45" value="-crearTutorialOrigami(TutorialOrigami,):void" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bdi7g1kAoPdW7_QPwDxV-41" vertex="1">
+        <mxCell id="D59ijYObIirlq5wWIzJe-45" value="-crearTutorialOrigami(TutorialOrigami,):boolean" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bdi7g1kAoPdW7_QPwDxV-41" vertex="1">
           <mxGeometry y="170" width="500" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="98TDJcl2JBag1Wm1PR5F-5" value="-modificarTutorialOrigami(TutorialOrigami):void" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bdi7g1kAoPdW7_QPwDxV-41">
+        <mxCell id="98TDJcl2JBag1Wm1PR5F-5" value="-modificarTutorialOrigami(TutorialOrigami):boolean" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bdi7g1kAoPdW7_QPwDxV-41">
           <mxGeometry y="200" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D59ijYObIirlq5wWIzJe-67" value="+mostrarTutorialOrigami(int codigo):TutorialOrigami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bdi7g1kAoPdW7_QPwDxV-41" vertex="1">
