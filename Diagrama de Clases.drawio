@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T07:16:00.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="g_9ysjIStTqrWXUfgt_j" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-16T07:16:46.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="2mSzFgJfyeA0hxDZXASb" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2067" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -352,7 +352,7 @@
         <mxCell id="98TDJcl2JBag1Wm1PR5F-5" value="-modificarTutorialOrigami(int Codigo)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bdi7g1kAoPdW7_QPwDxV-41">
           <mxGeometry y="200" width="500" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D59ijYObIirlq5wWIzJe-67" value="+mostrarTutorialOrigami(codigo):TutorialOrigami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bdi7g1kAoPdW7_QPwDxV-41" vertex="1">
+        <mxCell id="D59ijYObIirlq5wWIzJe-67" value="+mostrarTutorialOrigami(int codigo):TutorialOrigami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bdi7g1kAoPdW7_QPwDxV-41" vertex="1">
           <mxGeometry y="230" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D59ijYObIirlq5wWIzJe-29" value="+getCodigo():int" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bdi7g1kAoPdW7_QPwDxV-41" vertex="1">
