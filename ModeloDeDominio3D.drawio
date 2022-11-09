@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T23:50:17.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="Veph2nAbsGxlGTFD6xGz" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T00:14:46.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mdbPIaNCDXdXM98h5mFC" version="20.5.3" type="github">
   <diagram id="qQjOGNZVM2u2vZWcB5vZ" name="Página-1">
-    <mxGraphModel dx="1059" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,6 +322,30 @@
         </mxCell>
         <mxCell id="4oxD_9gMj9a963xSn7i8-5" value="Tiene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="-392.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-1" value="Tipo origami: son todos los tipos a los que corresponde un origami, ejemplo si es modular ......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-120" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-3" value="Origami&amp;nbsp; ya es&amp;nbsp; el objeto como tal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-4" value="Tutorial origami: este sera el que mostrara la informacion paso a paso sobre el origami a realizar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-65" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-5" value="Paso Tutotial: este es aquel que muestra el paso actual del tutorial&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-35" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-6" value="Recurso: este es el que contiene los materiales necesarios para realizar el paso tutorial" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-120" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-7" value="Tutorial persona: este es el tutorial que la persona esta observando para guardarlo y&amp;nbsp; pueda hacer seguimiento de lo que lleva" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-90" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-8" value="Estado Tutorial Persona:&amp;nbsp; este muestra el estado de un turial si esta realizado, en curso, sin empezar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-65" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-9" value="Paso persona este es aquel que esta relacionado con el paso tutorial que la persona" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-40" width="470" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
