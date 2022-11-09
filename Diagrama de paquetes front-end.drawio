@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T01:24:24.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="irG8-0zfZYFQlHtpELke" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-09T01:27:50.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="i3t8PMliR-jMdr4PM1rk" version="20.5.3" type="github" pages="2">
   <diagram id="LHF_U-AIQfbzdtRVQYcP" name="diagrama de paquete Front-end">
     <mxGraphModel dx="2557" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="fxdxPCnBwnmZus5cGqHH-2" value="PageIOS: esta es la capa de presentacion para IOS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-640" y="925" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fxdxPCnBwnmZus5cGqHH-3" value="&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: Ofrece un servicio predefinido&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Routes:&lt;/strong&gt; Almacena las rutas&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="960" width="260" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
