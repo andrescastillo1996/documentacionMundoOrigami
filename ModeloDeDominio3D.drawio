@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T00:14:46.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mdbPIaNCDXdXM98h5mFC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T00:15:40.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="isfOyag3ot5ZZdwjSI2L" version="20.5.3" type="github">
   <diagram id="qQjOGNZVM2u2vZWcB5vZ" name="Página-1">
     <mxGraphModel dx="1887" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,6 +346,9 @@
         </mxCell>
         <mxCell id="gta7zk8wmFH6yO8c8UV_-9" value="Paso persona este es aquel que esta relacionado con el paso tutorial que la persona" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="-40" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gta7zk8wmFH6yO8c8UV_-10" value="persona: es aquel usuario que esta dentro de la App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-150" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
